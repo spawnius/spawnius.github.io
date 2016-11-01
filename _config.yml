@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Coffe and code, code and coffe - what else do you need?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://denissb.github.io" # the base hostname & protocol for your site
+baseurl: ''
 github_username:  denissb
 facebook_username: deniss.borisov
 linkedin_username: deniss-borisovs-5221b288
